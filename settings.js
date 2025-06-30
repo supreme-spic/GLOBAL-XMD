@@ -9,7 +9,7 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['923204566005'] //['92x','92x'] 2 owner
+global.owner = ['263778858246'] //['92x','92x'] 2 owner
 global.packname = 'BOT'
 global.author = 'GlobalTechInfo'
 global.botname = 'GLOBAL MD'
@@ -18,7 +18,7 @@ global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧
 global.tempatDB = 'database.json' // Put mongodb url here if using mongodb. Format : 'mongodb+srv://...'
 global.tempatStore = 'baileys_store.json' // Put mongodb url here if using mongodb. Format : 'mongodb+srv://...'
 global.pairing_code = true
-global.number_bot = '' // If you use a panel, you can enter the number here, if you haven't taken a session. Format: '92320xx'
+global.number_bot = '263778858246' // If you use a panel, you can enter the number here, if you haven't taken a session. Format: '92320xx'
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
